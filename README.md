@@ -5,3 +5,4 @@ Use this repo to practice creating a pull request.
 * Bob Loblaw
 * Rita Skeeter
 * Tony Hawk
+* Dixon Lo
